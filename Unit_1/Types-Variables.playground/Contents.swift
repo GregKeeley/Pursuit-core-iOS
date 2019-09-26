@@ -65,3 +65,41 @@ let c = numFive == numSix
 
 let pi = 3.14
 
+/*
+ 
+ This is a comment block shorcut
+ 
+ */
+ 
+/* -This was a little advanced, and not the example provided in the lesson
+ 
+ var fellowName2 = "Chelsi Christmas"
+
+fellowName2 = "Greg Keeley"
+
+print (fellowName)
+
+var firstName = "Greg"
+
+var lastName = "Keeley"
+
+let fullName = firstName + lastName */
+
+let fullName = "Alex" + " Paul"
+
+var fallCycle = "iOS 6.3"
+
+print (fullName + " is the Instructor for \(fallCycle)")
+
+
+//==========================
+// Float vs Double
+//==========================
+
+let floatNum: Float = 1.23456789012345667890
+let doubleNum = 1.2345678901234567890
+print("float is \(floatNum) and double is \(doubleNum)")
+
+let accountBalance = Double(floatNum) + doubleNum
+print ("account balance is now \(accountBalance)")
+
