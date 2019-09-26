@@ -57,3 +57,11 @@ let d = numSeven == numEight
 let numFive = 24%5
 let numSix = 24%5
 let c = numFive == numSix
+
+
+//=========================================
+//               Constants
+//=========================================
+
+let pi = 3.14
+
